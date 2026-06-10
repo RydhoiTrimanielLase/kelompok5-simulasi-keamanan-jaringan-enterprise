@@ -33,7 +33,9 @@ Proyek ini mensimulasikan **keamanan jaringan enterprise** pada perusahaan fikti
 | 30 Windows Client | Keuangan (×10), HRD (×10), Operasional (×15) — representasi |
 | 3 Ubuntu Server | Web Server, DB Server, File Server |
 
-📎 **[Lihat file topologi (.drawio)](https://github.com/RydhoiTrimanielLase/kelompok5-simulasi-keamanan-jaringan-enterprise/blob/main/topologi.drawio)**
+![Topologi Jaringan](https://raw.githubusercontent.com/RydhoiTrimanielLase/kelompok5-simulasi-keamanan-jaringan-enterprise/main/topologi.jpeg)
+
+📎 **[Lihat/edit file topologi (.drawio)](https://github.com/RydhoiTrimanielLase/kelompok5-simulasi-keamanan-jaringan-enterprise/blob/main/topologi.drawio)**
 
 ---
 
