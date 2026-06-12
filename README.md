@@ -1,4 +1,4 @@
-# 🔐 Simulasi Keamanan Jaringan Enterprise
+# 🔐 Simulasi Keamanan Jaringan Enterprisen
 ### Project Based Learning — Jaringan Komputer dan Komunikasi Data
 **Teknik Informatika · Universitas Maritim Raja Ali Haji · T.A 2025/2026**
 
