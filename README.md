@@ -2,7 +2,7 @@
 ### Project Based Learning — Jaringan Komputer dan Komunikasi Data
 **Teknik Informatika · Universitas Maritim Raja Ali Haji · T.A 2025/2026**
 
----
+-
 
 ## 👥 Kelompok 5
 
@@ -18,7 +18,7 @@
 
 ## 📋 Deskripsi Proyek
 
-Proyek ini mensimulasikan **keamanan jaringan enterprise** pada perusahaan fiktif **PT. Nusantara Teknologi** menggunakan GNS3 dan Virtual Machine. Jaringan dibagi menjadi beberapa segmen berdasarkan divisi perusahaan, dengan penerapan ACL, Firewall, dan kebijakan akses antar segmen untuk membatasi komunikasi sesuai kebutuhan keamanan.
+Proyek ini mensimulasikan **keamanan jaringan enterprise** pada perusahaan fiktif **PT. Nusantara Teknologi** menggunakan GNS3 dan Virtual Machine. Jaringan dibagi menjadi beberapa segmen berdasarkan divisi perusahaan, dengan penerapan ACL, Firewall, dan kebijakan akses antar segmen untuk membatasi komunikasi sesuai kebutuhan keamanan
 
 ---
 
