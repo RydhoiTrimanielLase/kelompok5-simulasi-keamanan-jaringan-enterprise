@@ -86,13 +86,19 @@ kelompok5-simulasi-keamanan-jaringan-enterprise/
 ├── README.md
 │
 ├── Progress-1/
-│   ├── proposal.pdf          ← Proposal & analisis kebutuhan
-│   ├── topologi.png          ← Gambar topologi jaringan
-│   └── topologi.drawio       ← File Draw.io (editable)
+│   ├── proposal.pdf
+│   ├── topologi.png
+│   └── topologi.drawio
 │
-├── Progress-2/               ← Simulasi-Keamanan-Enterprise-GNS3-Progress2.GNS
-├── Progress-3/               ← (akan diisi)
-└── Final/                    ← (akan diisi)
+├── Progress-2/
+│   ├── Simulasi-Keamanan-Enterprise-GNS3-Progress2.gns3
+│   ├── routing-config.txt
+│   ├── hasil-ping.png
+│   └── hasil-traceroute.png
+│
+├── Progress-3/
+│
+└── Final/
 ```
 
 ---
