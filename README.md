@@ -90,7 +90,7 @@ kelompok5-simulasi-keamanan-jaringan-enterprise/
 │   ├── topologi.png          ← Gambar topologi jaringan
 │   └── topologi.drawio       ← File Draw.io (editable)
 │
-├── Progress-2/               ← (akan diisi)
+├── Progress-2/               ← Simulasi-Keamanan-Enterprise-GNS3-Progress2.GNS
 ├── Progress-3/               ← (akan diisi)
 └── Final/                    ← (akan diisi)
 ```
@@ -101,8 +101,8 @@ kelompok5-simulasi-keamanan-jaringan-enterprise/
 
 | Tahap | Deadline | Status |
 |-------|----------|--------|
-| Progress 1 | 13 Juni 2026, 21.00 WIB | 🟡 In Progress |
-| Progress 2 | 20 Juni 2026, 21.00 WIB | ⬜ Belum |
+| Progress 1 | 13 Juni 2026, 21.00 WIB | Selesai |
+| Progress 2 | 20 Juni 2026, 21.00 WIB | Selesai |
 | Progress 3 | 27 Juni 2026, 21.00 WIB | ⬜ Belum |
 | Final | 01 & 03 Juli 2026 | ⬜ Belum |
 
