@@ -91,14 +91,15 @@ kelompok5-simulasi-keamanan-jaringan-enterprise/
 │   └── topologi.drawio
 │
 ├── Progress-2/
-│   ├── Simulasi-Keamanan-Enterprise-GNS3-Progress2.gns3
-│   ├── routing-config.txt
-│   ├── hasil-ping.png
-│   └── hasil-traceroute.png
+│   ├── Routing/
+│   ├── Konektivitas/
+│   └── Simulasi-Keamanan-Enterprise-GNS3-Progress2.GNS
 │
 ├── Progress-3/
+│   └── (akan diisi)
 │
 └── Final/
+│   └── (akan diisi)
 ```
 
 ---
