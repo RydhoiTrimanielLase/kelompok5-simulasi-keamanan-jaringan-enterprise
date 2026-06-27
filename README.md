@@ -30,7 +30,7 @@ Proyek ini mensimulasikan **keamanan jaringan enterprise** pada perusahaan fikti
 | 1 Firewall | ACL & policy enforcement |
 | 5 Switch | Per segmen divisi |
 | 5 Linux PC | IT Admin (×5) |
-| 30 Windows Client | Keuangan (×10), HRD (×10), Operasional (×15) — representasi |
+| 7 Windows Client | Keuangan (1), HRD (1), Operasional (1) — representasi |
 | 3 Ubuntu Server | Web Server, DB Server, File Server |
 
 ![Topologi Jaringan](https://raw.githubusercontent.com/RydhoiTrimanielLase/kelompok5-simulasi-keamanan-jaringan-enterprise/main/topologi.jpeg)
