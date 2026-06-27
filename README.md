@@ -124,6 +124,13 @@ kelompok5-simulasi-keamanan-jaringan-enterprise/
 - Konfigurasi GNS3 + VM
 
 ---
+File drive (Zip Router serta screenahot konfigurasi)
+
+link
+
+https://drive.google.com/drive/folders/10ZpKFHoCkzmAXxFjEWROjE7HQ4_jmGY4
+
+---
 
 > **Mata Kuliah:** Jaringan Komputer dan Komunikasi Data  
 > **Program Studi:** Teknik Informatika — UMRAH  
