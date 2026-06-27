@@ -96,10 +96,10 @@ kelompok5-simulasi-keamanan-jaringan-enterprise/
 │   └── Simulasi-Keamanan-Enterprise-GNS3-Progress2.GNS
 │
 ├── Progress-3/
-│   └── (akan diisi)
+│   └── Simulasi-Keamanan-Enterprise-GNS serta uji coba hasil
 │
 └── Final/
-│   └── (akan diisi)
+│   └── Laporan final dan slide ppt
 ```
 
 ---
@@ -110,8 +110,8 @@ kelompok5-simulasi-keamanan-jaringan-enterprise/
 |-------|----------|--------|
 | Progress 1 | 13 Juni 2026, 21.00 WIB | Selesai |
 | Progress 2 | 20 Juni 2026, 21.00 WIB | Selesai |
-| Progress 3 | 27 Juni 2026, 21.00 WIB | ⬜ Belum |
-| Final | 01 & 03 Juli 2026 | ⬜ Belum |
+| Progress 3 | 27 Juni 2026, 21.00 WIB | selesai |
+| Final | 01 & 03 Juli 2026 | selesai |
 
 ---
 
